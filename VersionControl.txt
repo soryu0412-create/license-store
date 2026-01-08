@@ -1,0 +1,9 @@
+[VersionControl]
+bmp_v15=1
+png_v15=x9k3
+
+bmp_v14=1
+png_v14=x9k3
+
+bmp_v13=0
+png_v13=x9k3
