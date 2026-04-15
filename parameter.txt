@@ -1,0 +1,7 @@
+[Pointer]
+HP_Current=0x137348C
+HP_Max=0x1373490
+SP_Current=0x1373494
+SP_Max=0x1373498
+Weight_Current=0x136F9E8
+Weight_Max=0x136F9E4
