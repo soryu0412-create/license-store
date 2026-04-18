@@ -4,4 +4,4 @@ HP_Max=0x01773490
 SP_Current=0x01773494
 SP_Max=0x01773498
 Weight_Current=0x0176F9E8
-Weight_Max=0176F9E4
+Weight_Max=0x0176F9E4
